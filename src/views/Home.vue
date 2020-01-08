@@ -51,7 +51,7 @@ export default {
             id: 2,
             title: "AbdiAziz.. Please name this ",
             description: "you describe it....",
-            image: "images/sampleImages/honey.JPG"
+            image: "images/sampleImages/honey.jpg"
           },
           {
             id: 3,
@@ -97,7 +97,7 @@ export default {
             id: 9,
             title: "you name it",
             description: "you describe it....",
-            image: "images/sampleImages/cofeecup.JPG"
+            image: "images/sampleImages/cofeecup.jpg"
           },
           {
             id: 10,
@@ -131,13 +131,13 @@ export default {
             id: 14,
             title: "you name it",
             description: "you describe it....",
-            image: "images/sampleImages/uw.JPG"
+            image: "images/sampleImages/uw.jpg"
           },
           {
             id: 15,
             title: "you name it",
             description: "you describe it....",
-            image: "images/sampleImages/farming.JPG"
+            image: "images/sampleImages/farming.jpg"
           },
 
           {
@@ -151,14 +151,14 @@ export default {
             id: 17,
             title: "What about this one? !!",
             description: "you describe it....",
-            image: "images/sampleImages/tesla.JPG"
+            image: "images/sampleImages/tesla.jpg"
           },
 
           {
             id: 18,
             title: "you name it",
             description: "you describe it....",
-            image: "images/sampleImages/tv.JPG"
+            image: "images/sampleImages/tv.jpg"
           },
         ]
     }
