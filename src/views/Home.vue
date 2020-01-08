@@ -158,7 +158,7 @@ export default {
             id: 18,
             title: "you name it",
             description: "you describe it....",
-            image: "images/sampleImages/tv.jpg"
+            image: "images/sampleImages/TV.JPG"
           },
         ]
     }
